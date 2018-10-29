@@ -1,2 +1,0 @@
-# ReactHooksSandbox
-Created with CodeSandbox
